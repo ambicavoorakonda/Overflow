@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    background-color: thistle;
+    margin: 0%;
+    font-size: 40px;
+}
+#overflow1 {
+    width: 400px;
+    height: 400px;
+    overflow: visible;
+}
+#overflow2 {
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+}
+#overflow3 {
+    width: 400px;
+    height: 400px;
+    overflow: scroll;
+}
+#overflow4 {
+    width: 400px;
+    height: 400px;
+    overflow: auto;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
